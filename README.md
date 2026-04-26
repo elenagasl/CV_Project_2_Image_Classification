@@ -101,7 +101,7 @@ Both ensembles use **stacking (meta-learning)**: a Logistic Regression meta-lear
 | SmallVGG | VGG-inspired + GAP | **0.7629** | Green CLAHE + pos_weight + TTA |
 | SmallResNet | ResNet with skip connections | 0.7287 | Green CLAHE + TTA |
 | CustomLeNet | LeNet-5 adaptation | 0.6231 | Baseline, limited capacity |
-| **Custom Ensemble** | Logistic Regression meta | TBD | Stacking |
+| **Custom Ensemble** | Logistic Regression meta | 0.7334 | Stacking |
 
 **Key domain-specific innovations:**
 
