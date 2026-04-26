@@ -202,6 +202,6 @@ Upload `codabench_submission.zip` directly to CodaBench.
 | FT | ResNet50 (best single model) | 0.8346 |
 | FT | **Stacking Ensemble** | **0.8476** |
 | Custom | SmallVGG (best single custom) | 0.7629 |
-| Custom | Stacking Ensemble | TBD |
+| Custom | Stacking Ensemble | 0.7334 |
 
 The FT ensemble outperforms every individual base model by leveraging complementary strengths across architectures spanning CNNs (ResNet, EfficientNet, ConvNeXt) and Transformers (Swin, ViT).
